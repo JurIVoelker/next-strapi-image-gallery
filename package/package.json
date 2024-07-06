@@ -1,0 +1,33 @@
+{
+  "name": "next-strapi-image-gallery",
+  "version": "1.0.0",
+  "description": "Image gallery for next.js and strapi with custom image loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JurIVoelker/next-strapi-image-gallery.git"
+  },
+  "keywords": [
+    "next.js",
+    "next",
+    "strapi",
+    "image",
+    "gallery",
+    "image",
+    "loader",
+    "next",
+    "image",
+    "image",
+    "loading",
+    "animation"
+  ],
+  "author": "Juri Völker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JurIVoelker/next-strapi-image-gallery/issues"
+  },
+  "homepage": "https://github.com/JurIVoelker/next-strapi-image-gallery#readme"
+}
