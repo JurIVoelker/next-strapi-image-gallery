@@ -1,0 +1,42 @@
+.imageGallery {
+  column-count: 4; /* Amount of columns */
+  column-gap: 8px; /* Space between columns */
+}
+
+.imageGallery div {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 4px;
+  border-radius: 4px;
+}
+
+.imageGallery div img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
+@media (max-width: 1200px) {
+  .imageGallery {
+    column-count: 3;
+  }
+}
+
+@media (max-width: 1024px) {
+  .imageGallery {
+    column-count: 3;
+  }
+}
+
+@media (max-width: 768px) {
+  .imageGallery {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 480px) {
+  .imageGallery {
+    column-count: 1;
+  }
+}
