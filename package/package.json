@@ -4,6 +4,7 @@
   "description": "Image gallery for Next.js and Strapi with custom image loader",
   "main": "index.js",
   "module": "ImageGallery.tsx",
+  "types": "ImageGallery.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
