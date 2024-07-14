@@ -2,15 +2,9 @@
   "name": "next-strapi-image-gallery",
   "version": "1.0.2",
   "description": "Image gallery for Next.js and Strapi with custom image loader",
-<<<<<<< HEAD
-  "main": "index.js",
-  "module": "ImageGallery.tsx",
-  "types": "ImageGallery.d.ts",
-=======
   "main": "./src/index.js",
   "module": "./src/ImageGallery.js",
   "types": "./src/index.d.ts",
->>>>>>> ca2e3e77c0ab96916fa73835835ec2ec673217ec
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
