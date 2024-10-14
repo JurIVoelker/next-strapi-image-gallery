@@ -1,6 +1,6 @@
 {
   "name": "next-strapi-image-gallery",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Image gallery for Next.js and Strapi with custom image loader",
   "main": "./src/index.js",
   "module": "./src/ImageGallery.js",
