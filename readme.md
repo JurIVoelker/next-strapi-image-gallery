@@ -1,3 +1,4 @@
+# Caution! This package is not working on any Version! 
 # Image gallery for Next.js and Strapi
 
 ## Demo
